@@ -1,7 +1,9 @@
 # About
 This repository contains all of my codes (assignments, practice, etc.) during my journey of learning C
 
-## **Folder Practicum**
+**Basic Programming Module :** https://github.com/AlproITS/DasarPemrograman/wiki
+
+## Folder Practicum
 - Source Prob :
   * Prakdaspro-m1 : [Link Practice Week 1](https://www.hackerrank.com/contests/dp-c-m1-2021/challenges)
   * Prakdaspro-m2 : [Link Practice Week 2](https://www.hackerrank.com/contests/dp-c-m2-2021/challenges)
